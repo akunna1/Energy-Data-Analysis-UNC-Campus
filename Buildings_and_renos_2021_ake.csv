@@ -1,0 +1,410 @@
+﻿Building_number,Building_name, State_gross_area ,Land_entity_class,Year_construction_started,Year_occupied,Latest_reno
+2,Abernethy Hall,"16,949",A,1907,1907,1924
+3,Ackland Art Museum,"40,106",A,1958,1958,1990
+4,Alumni Bldg,"31,999",A,1898,1901,1974
+5,South Building,"32,495",A,1799,1814,2004
+8,Bynum Hall,"23,189",A,1905,1905,2009
+9,Caldwell Hall,"33,138",A,1912,1912,
+10,Coker Hall,"78,032",A,1963,1963,2000
+12,Carroll Hall,"94,432",A,1953,1955,2008
+13,Davie Hall,"80,509",A,1967,1967,
+14,Dey Hall,"64,091",A,1962,1962,
+17,Gardner Hall,"41,380",A,1950,1953,
+18,Gerrard Hall,"5,455",A,1822,1837,2007
+19,Hanes Hall,"41,927",A,1950,1953,2008
+20,Hill Hall,"61,298",A,1907,1907,2016
+21,Howell Hall,"25,499",A,1904,1906,2015
+24,Wilson Library,"316,694",A,1928,1929,
+25,Carmichael Arena,"106,429",A,1965,1965,2009
+26,Manning Hall,"57,202",A,1923,1923,1970
+27,Memorial Hall,"62,799",A,1931,1931,2005
+29,Mitchell Hall,"58,421",A,1964,1964,
+30,Murphey Hall,"29,030",A,1922,1924,2003
+31,Naval Armory,"18,519",A,1941,1945,1995
+33,New East,"19,267",A,1861,1861,2007
+35,New West,"19,682",A,1861,1861,2006
+37,Peabody Hall,"79,788",A,1912,1913,2004
+38,Person Hall,"7,901",A,1794,1797,2007
+39,Phillips Hall,"148,065",A,1918,1919,
+42,Playmakers Theatre,"7,153",A,1850,1851,2007
+43,Carolina Hall,"30,874",A,1922,1922,2005
+44,Swain Hall,"39,107",A,1913,1914,
+46,Wilson  Hall,"100,574",A,1939,1940,2006
+47,Woollen Gym,"143,052",A,1936,1937,2015
+047A,Stallings-Evans Sports Medicine Center,"20,390",A,2009 Q4,2010,
+047B,Kessing Pool Bath House,423,C,2012,2013,
+047C,Kessing Pool Storage #1,291,C,2012,2013,
+047D,Kessing Pool Storage #2,319,C,2012,2013,
+48,Fordham Hall,"67,897",A,1988,1991,
+50,Steele Bldg,"19,109",A,1921,1921,2008
+51,Evergreen House,"3,764",B,1890,1890,2011
+52,Graham Memorial,"28,557",A,1914,1931,1999
+53,Aviary,636,B,2004,2005,
+55,Hyde Hall,"16,062",A,2003,2003,
+56,Battle Hall,"9,073",A,1912,1912,2004
+57,Vance  Hall,"7,501",A,1912,1912,2004
+58,Pettigrew Hall,"7,489",A,1912,1912,2004
+62,Daniels Student Stores,"57,370",A,1964,1968,2017
+63,House Undergraduate Library,"78,167",A,1964,1968,2002
+64,Van  Hecke-Wettach  Hall,"165,303",A,1966,1968,
+65,Graham Student Union,"152,022",A,1964,1968,2012
+66,Greenlaw Hall,"58,069",A,1966,1970,2007
+67,Hickerson House,"6,108",A,1930,1968,
+69,Kenan Labs,"140,410",A,1968,1971,2008
+70,Hamilton Hall,"85,327",A,1968,1972,
+71,FPG Child Development Inst,"36,081",A,1970,1971,
+74,Physical Plant Maintenance Shop,"2,840",B,1968,1968,
+75,Grounds Maintenance Shop,"6,652",A,1970,1970,1986
+76,Morehead Addition,"44,425",A,1973,1973,
+78,Paul Green Theater,"41,395",A,1972,1978,1998
+79,Hanes Art Center,"77,316",A,1980,1982,
+80,Davis Library,"430,141",A,1978,1983,2007
+81,Morehead Chemistry Labs,"60,947",A,1983,1985,1992
+82,Smith Student Activities Center,"264,711",A,1980,1986,2003
+082A,Koury Natatorium,"46,544",A,1986,1986,1987
+082B,Carolina Athletics Media Center,"13,954",A,,2019,
+83,Sitterson Hall (incl. Brooks),"110,698",A,1986,1987,2008
+84,Tate-Turner-Kuralt Bldg,"79,288",A,1991,1995,
+85,"Gillings Dramatic Arts, Center for","56,637",A,1998,1998,
+86,Caudill Labs,"152,424",A,2003,2006,
+87,Chapman Hall,"142,351",A,2003,2006,
+88,Kenan Music Bldg,"44,717",A,2006 Q4,2008,
+91,SASB - North,"74,558",A,2005,2007,
+92,SASB - South,"27,213",A,2005,2007,
+93,"Global Education, Fedex","143,750",A,2004,2007,
+95,Stone Center,"45,244",A,2002 Q1,2004,
+96,McColl Bldg,"215,271",A,1997,1997,2008
+97,Business Parking Deck,"194,050",A,1996,1996,
+98,Hill Alumni Center,"68,760",A,1988,1993,
+99,Carmichael Res Hall,"107,889",A,1986,1986,2008
+100,Alexander Res Hall,"25,111",A,1939,1939,2003
+100B,Alexander Grounds Shed,560,C,2003,2005,
+101,Avery Res Hall,"64,309",A,1958,1958,
+102,Residence Hall One (Aycock Res),"34,284",A,1924,1924,1998
+103,Student Affairs Bldg (Carr Bldg),"14,637",A,1900,1900,1972
+104,Craige Res Hall,"154,307",A,1962,1962,2001
+104B,Grounds Shed Behind Craige Res Hall,311,C,2001,2001,
+105,Ehringhaus Res Hall,"156,315",A,1961,1962,2001
+106,Everett Res Hall,"19,436",A,1928,1928,1987
+107,Graham Res Hall,"24,200",A,1924,1924,2008
+108,Grimes Res Hall,"23,992",A,1921,1922,1988
+109,Hinton James Res Hall,"220,478",A,1966,1967,2009
+110,Lewis Res Hall,"19,502",A,1922,1924,2008
+111,Mangum Res Hall,"26,631",A,1921,1922,1988
+112,Manly Res Hall,"26,490",A,1922,1922,1988
+113,Morrison Res Hall,"217,522",A,1963,1965,2007
+114,Old East,"17,965",A,1795,1795,2009
+115,Old West,"18,239",A,1822,1823,2009
+116,Parker Res Hall,"46,008",A,1957,1958,1996
+117,Ruffin Res Hall,"23,992",A,1921,1922,1988
+118,Stacy Res Hall,"20,110",A,1937,1938,2008
+119,Teague Res Hall,"51,013",A,1958,1958,1999
+121,Alderman Res Hall,"26,978",A,1937,1937,2004
+122,Cobb Res Hall,"113,298",A,1952,1952,2006
+123,Connor Res Hall,"47,743",A,1948,1948,2003
+124,Joyner Res Hall,"52,623",A,1947,1948,2003
+125,Kenan Res Hall,"34,152",A,1936,1939,2004
+126,McIver Res Hall,"26,216",A,1939,1939,2004
+128,Smith Bldg,"17,983",A,1900,1901,
+129,Spencer Res Hall,"44,577",A,1921,1924,2006
+131,Winston  Res  Hall,"44,769",A,1947,1948,2003
+133,Lenoir Hall,"84,516",A,1938,1939,1998
+136,Horton Res Hall,"74,403",A,2000,2002,
+137,Craige North Res Hall,"75,582",A,2000,2002,
+138,Koury Res Hall,"74,937",A,2000,2002,
+139,Hardin Res Hall,"59,537",A,2000,2002,
+148,Porthole Bldg,"4,462",B,1930,1930,
+150,Coates Bldg,"9,958",A,1938,1939,1972
+151,Campus Y,"14,464",A,1904,1907,2007
+152,Morehead Planetarium,"56,868",A,1949,1949,
+152A,Morehead Planetarium Grounds Shed A,152,C,2005,2005,
+152B,Morehead Planetarium Grounds Shed B,198,C,2005,2005,
+153,Jackson Hall,"13,896",A,1942,1942,
+156A,Odum Village 217 Jackson Circle,"4,797",B,1960,1963,
+156L,Odum Village 401 Mason Farm Rd,"6,235",A,1960,1963,
+156M,Odum Village 405 Mason Farm Rd,"6,235",A,1960,1963,
+156N,Odum Village Comm Shed #2 - Branson,35,C,,2006,
+156P,Odum Village Comm Shed #3 - Mason Farm,35,C,,2006,
+156R,Odum Village Comm Shed #1 - Jackson,35,C,,2006,
+161,Abernethy Annex,240,B,1930,1930,
+162,Finley Club House,"8,872",A,1948,1948,2012
+162B,Finley Golf Course Toilet Hole 3,264,C,2006,2006,
+164,Old Well,145,B,1897,1897,
+165,"Franklin Street, 134 E.","13,060",A,1913,1914,1997
+166,General Storeroom,"97,102",A,1961,1962,1973
+166A,General Storeroom Storage Shed South,185,C,2004,2004,
+166B,General Storeroom Storage Shed East,289,C,2004,2004,
+167A,Grounds Shed 15,329,C,,2008,
+167B,Grounds Shed 16,329,C,,2008,
+168,Horney Bldg,"63,054",A,1960,1962,
+169,Service Station,"6,848",A,1962,1962,2007
+173,Finley Storage A,"3,015",B,1970,1970,
+174,Finley Storage B,"5,619",A,1945,1945,
+182,Cheek Clark Bldg,"34,113",A,1925,1925,1998
+200,Beard Hall,"74,589",A,1957,1959,2008
+201,Rosenau Hall,"121,745",A,1960,1962,2008
+202,MacNider Hall,"121,141",A,1938,1939,
+206,Bondurant Hall,"119,614",A,1960,1962,2006
+207,Medical School Wing B,"21,339",A,1952,1952,1952
+208,Medical School Wing D,"23,611",A,1960,1960,2008
+209,First Dental,"70,998",A,1949,1953,2004
+210A,Koury Oral Health Sciences Building,"230,184",A,2008 Q2,2011,
+211,Brauer Hall,"108,790",A,1969,1969,2007
+212,Francis Owen Blood Research Lab,"6,714",A,1960,1960,1980
+212A,Fobrl Storage 3,100,C,1993,1993,
+212B,Fobrl Unit 1,384,C,1993,1993,
+212C,Fobrl Unit 3,744,C,1996,1996,
+212D,Fobrl Unit 2,640,C,1993,1993,
+214,Carrington Hall,"153,083",A,1969,1969,2005
+217,Taylor Hall,"75,928",A,1968,1969,2015
+221,Medical School Wing C,"20,829",A,1952,1952,2008
+222,Medical School Wings E & F,"18,393",A,1950,1952,
+222B,Grounds Shed At Med School Wings,193,C,2006,2006,
+223,Health Sciences Library,"91,538",A,1966,1970,2004
+226,Old Clinic Bldg,"62,248",A,1952,1952,2008
+228,Brinkhous-Bullitt Bldg,"127,830",A,1969,1973,2009
+229,Burnett-Womack Bldg,"175,840",A,1975,1975,2007
+231,Mary Ellen Jones,"230,975",A,1974,1978,2018
+232,Cardinal Deck,"537,875",A,1973,1975,2000
+236,Glaxo Research Building,"26,927",A,1988,1988,2005
+237,Lineberger Cancer Research Center,"152,664",A,1981,1984,1997
+238,McGavran-Greenberg Hall,"124,402",A,1990,1990,
+239,Baity Lab,"6,327",A,1990,1990,
+240,Aycock Family Medicine,"60,137",A,1988,1990,2015
+241,Ambulatory Care Center,"137,471",A,1992,1992,2006
+242,Thurston-Bowles Bldg,"162,857",A,1987,1995,2006
+244,Tarrson Hall,"99,301",A,1998,1998,
+245,Neurosciences Research Bldg,"106,433",A,2000,2003,
+246,NC Area Health Education Center Bldg,"19,887",A,2000,2000,
+247,Medical Biomolecular Research Bldg,"218,401",A,2003,2003,
+248,Bioinformatics Bldg,"152,892",A,2000,2000,
+280,Trailer  #24,"1,239",C,1967,1967,
+327,Medical Research Bldg B,"5,156",A,1974,1975,1998
+328,Bingham Facility A,"9,411",A,1973,1973,2003
+328A,Bingham Facility Storage Shed,"3,515",C,2003,2004,
+328B,Bingham Facility Storehouse,"3,200",B,2003,2003,
+330,Radiation Waste Storage,"1,200",C,1973,1973,
+347,Aircraft Hangar #2,"7,334",A,1981,1981,
+348A,Fobrl Unit 5,492,C,2002,2002,
+350,Craige Parking Deck,"781,694",A,1989,1991,2015
+352,Dogwood Parking Deck,"687,951",A,2000,2000,
+353,Hemophilia Research Lab,"1,680",C,2000,2000,
+356,"Government Parking Deck, Sch Of","73,222",A,2003,2004,
+357,Kerr Hall,"89,919",A,2003,2003,
+358,Hooker Research Center,"127,624",A,2003,2005,
+359,Genetic Medicine Research Bldg,"358,746",A,2005,2008,
+359A,Biomarker Generator Equip Enclosure,523,B,2012,2012,
+360,Marsico Hall,"362,419",A,2009 Q2,2014,
+361,Jackson Circle Parking Deck,"279,721",A,2005 Q2,2006,
+362,UNC Medical Air Operations,"24,202",A,2010,2011,
+368,Cone Kenfield Tennis Center,"55,964",A,1991,1992,
+368A,Cone Kenfield Facility Storage,140,C,2006,2006,
+368B,Cone Kenfield Shed East,172,C,2006,2006,
+368C,Cone Kenfield Shed North,229,C,2006,2006,
+368D,Cone Kenfield Storage Shed NE,229,C,2005,2005,
+369,"Friday Center, William & Ida","104,542",A,1988,1991,
+370,CLLC Phase 1,"3,717",B,1990,1990,
+371,CLLC Phase 2,"9,087",A,1997,1997,
+371A,CLLC Pool House and Pool,216,C,,2015,
+372,CLLC Potting Shed,"1,320",C,1997,1997,
+374,CLLC Phase 3,"5,273",A,2002,2002,
+375,Loudermilk Center for Excellence,"196,178",A,2010,2011,
+376,Field Hockey Team Building,"11,230",A,2018,2018,
+376A,Karen Shelton Stadium,"4,556",B,2018,2018,
+376B,Field Hockey Press Box and Stands,968,B,2018,2018,
+380,Goodmon Bldg,"10,561",A,1992,1998,2001
+380A,WUNC-FM  Modular  Bldg,286,C,1998,1998,
+381G,Friday Grounds Shed At Wunc Tower,332,C,1998,1998,
+384,"Martin Luther King Jr Blvd, 1700","50,358",A,1998,1998,
+385,"Martin Luther King Jr Blvd, 720","11,461",A,1984,1984,
+386,"Martin Luther King Jr Blvd, 730","24,854",A,1983,1988,
+387,Meadowmont - Dubose Homestead,"20,683",A,1933,1933,2000
+387B,Meadowmont Garden House,"2,107",C,1933,1933,
+387C,Meadowmont Stable,"1,527",C,1933,1933,
+388,Loudermilk Hall,"47,966",A,2000,2000,2006
+389,Mclean Hall,"94,751",A,2000,2000,2006
+389B,Bell Hall,"93,576",A,2014,2016,
+390,Rams Head Recreation,"47,414",A,2004,2005,
+391,Chase Dining Hall (Rams Head),"67,684",A,2004,2005,
+391A,Rams Head Convenience Store,"18,648",A,2004,2005,
+392,Rams Head Center Parking Deck,"276,941",A,2003,2005,
+402,Love House,"4,722",B,1930,1930,2007
+426,Hill Commercial Bldg,"8,146",A,1920,1920,1969
+429A,Boshamer Stadium,"50,919",A,2007 Q4,2009,
+429C,Boshamer Shed - Left Field,"1,020",B,2007 Q4,2009,
+429D,Boshamer Concession Stand,"1,625",B,2007 Q4,2009,
+430,Public Safety Bldg,"23,448",A,1988,1988,2000
+431,Forest Theater,"1,209",B,1917,1919,2010
+432,Laurel Hill Greenhouse,"1,428",C,1965,1965,
+434,Faculty Farm,"3,369",B,1850,1850,
+435,Bell Tower,"3,105",B,1931,1931,
+436,Carolina Veterans Resource Center,"6,407",A,1970,1970,2015
+437,Airport Office,684,B,1942,1942,
+454,ITS Franklin,"54,284",A,1951,1974,2005
+455,ITS Franklin Annex,"2,276",B,1951,1974,1982
+455A,West  Rosemary  Parking  Booth,26,C,,2000,
+457,Totten Garden Center,"5,678",A,1975,1976,
+458,Surplus Property Warehouse,"9,184",A,1975,1976,1987
+458A,Surplus Property Warehouse Storage Shed,594,C,2006,2006,
+462,Art Studio Bldg,"19,371",A,1977,1977,
+467,Biology Trailer,600,C,1975,1975,
+467A,Biology Aviary Trailer,600,C,,2006,
+467B,Biology Aviary Mason Farm,709,B,2007 Q3,2007,
+468,Fetzer Hall,"169,913",A,1977,1981,2011
+469,Taylor Campus Health,"61,573",A,1975,1980,2005
+470,Observatory,673,B,1979,1979,
+471,COEC Toilet Complex,"1,644",C,1976,1976,
+472,Botanical Garden Field Shelter,753,B,2003,2003,
+473,Visitors Information Booth,142,C,1998,1998,
+476,Brooks Hall,"13,251",A,1980,1980,1993
+477,Horney Bldg Annex,"9,690",A,1980,1980,2005
+480,Finley Golf Range House,999,C,1981,1981,
+481,"Pittsboro Street, 210","10,247",A,1924,1924,
+487,Finley Golf Cart House,"6,087",C,1982,1982,
+488,Hazardous Material Facility,"1,697",B,1983,1983,
+489,Airport Hangar #1,"7,041",A,1942,1942,
+490,Hangar Storage,"1,887",C,1942,1942,
+493,"Finley Golf Course Road, 212","6,540",A,1970,1970,
+497,Herb House,426,C,1996,1997,
+498,Kenan Center,"63,576",A,1984,1986,2003
+507,Carolina Outdoor Education Center,"2,872",B,1984,1985,
+507A,COEC Expeditions Office,674,C,2006,2006,
+508,Fobrl Unit 4,"1,228",C,2003,2003,
+508A,Fobrl Storage 1,200,C,2005,2005,
+508B,Fobrl Storage 2,240,C,2005,2005,
+510,Smith Center Parking Booth,22,C,2005,2005,
+514,Sheps Bldg,"42,522",A,1986,1990,
+518,Kenan Stadium,"18,991",A,1926,1928,2009
+518C,Kenan Football Weights Shed,226,C,2005,2005,
+519,Kenan Stadium Pressbox,"23,764",A,1987,1988,
+520,Trailer  #46,"1,525",C,1988,1988,
+521,Trailer  #47,"1,525",C,1988,1988,
+523,Trailer  #49,"1,525",C,1988,1988,
+524,Trailer  #50,"1,537",C,1982,1982,
+529,"Henderson Street, 214","3,600",B,1925,1925,
+531,Hazardous Materials Warehouse,"2,613",B,1991,1991,
+533,"Baity Hill Drive, 1503","5,427",A,1940,1991,
+535,Paul Green Cabin,674,C,1945 c.,1991,
+541,Student Recreation Center,"38,556",A,1991,1993,2015
+542,University  Boathouse,"4,853",B,1993,1993,
+542A,Boathouse Storage Shed,85,C,2007,2007,
+543,Hwy. 54 Parking Booth,48,C,2005,2005,
+544,Airport Storage Bldg,455,B,1992,1992,
+545,Chancellors Residence,"12,132",A,1954,1993,
+545B,Quail Hill Cottage 2,"1,172",C,,1993,
+545C,Quail Hill Cottage 3,"1,000",C,,1993,
+552,Med School Bldg #52,"4,132",B,2003,2003,
+553,WUNC  TV  Transmitter,"8,193",C,1954,1954,
+553A,WUNC FM Transmitter,"1,097",C,1996,1996,
+556,Swain Parking Lot Booth,138,C,1996,1997,
+562,Airport Block Bldg,"1,315",B,1942,1942,
+566,Kenan Stadium Guest Box,"38,480",A,1997,1997,
+567,"Kenan Football Center, Frank H.","129,651",A,1997,1997,2010
+569,McCaskill Soccer Center,"10,250",A,1999,1999,
+575,Finley Chemical Bldg,240,C,1998,1998,
+581,"Finley Golf Course Road, 220","10,524",A,1963,1997,
+582,Storage Facility - DEHS,"5,476",A,2000,2000,
+583,Finley Maintenance Bldg,"9,230",A,1999,1999,
+583A,Finley Pesticide Storage Shed,235,C,,2012,
+588,Atm Bldg,237,B,2000,2000,
+594,Chapman Golf Team Facility,"6,157",A,2002,2002,
+597,"Smith, Eddie Field House","81,025",A,2001,2001,
+600,"Franklin Street, 208 W.","21,875",A,1996,1996,2015
+607,Administrative Office Bldg,"77,342",A,2004,2004,
+613B,"Finley Golf Course Road, 216","10,379",A,1972,1972,
+617,Anderson Stadium,"5,396",A,2004,2004,
+617A,Anderson Shed - Left Field,229,C,2006,2006,
+617B,Anderson Shed - Left Center Fld,271,C,2006,2006,
+617C,Anderson Shed - Right Field,228,C,2006,2006,
+617D,Anderson Softball Training Facility,"4,943",B,2015,2015,
+617J,Finley Fields South Weather Shelter,"2,304",C,2017,2017,
+617W,Finley Fields Shed Left Field,285,C,2006,2006,
+617Z,Finley Fields Trainer Stand,148,C,2005,2005,
+618D,Kenan Toilet Tower SE,"3,772",B,1989,1995,
+618E,Kenan Toilet Tower SW,"3,772",B,1989,1995,
+618F,Kenan Toilet Tower NW,"3,772",B,1989,1995,
+618G,Kenan Toilet Tower NE,"3,772",B,1989,1995,
+618J,Kenan Concessions 6,684,C,1989,1989,
+618K,Kenan Concession Stand SW,684,C,1989,1989,
+618L,Kenan Concession Stand North,684,C,1989,1989,
+618M,Kenan Concession Stand NW,684,C,1989,1989,
+618N,Kenan Stadium First Aid Stand,494,C,1989,1989,
+618P,Kenan Concession Stand Northeast,760,C,1989,1989,
+618Q,Kenan Concession Stand Southeast,760,C,1989,1989,
+618S,Kenan Ticket Booths North,92,C,1963,1963,
+618T,Kenan Ticket Booths South,92,C,1963,1963,
+619,Parking Booth Ambulatory Care Center,138,C,2005,2005,
+623,Fobrl Unit 6,"5,248",B,2004,2005,
+625,ITS Manning,"97,181",A,2005,2007,
+630,Land Mngmt & Trail Information Ofc,"1,915",B,1978,2007,
+630A,EHS Ground Water Treatment,626,C,2006 Q2,2006,
+630C,Transportation Operations and Garage,"22,780",A,1986,1986,
+630D,Transportation Admin Bldg,"1,779",B,1986,1986,
+630F,Carolina North Garage #1,"10,262",C,1978,2007,
+630G,Field Operations and Storage,"8,474",A,,2008,
+630H,Carolina North Garage #2,"6,041",C,1980,2009,
+630J,Facilities Services Training Trailer,"1,400",C,2015,2015,
+631,Baity Hill 1101 Mason Farm Road,"39,631",A,2004,2005,
+632,Baity Hill 1351 Mason Farm Road,"49,601",A,2004,2005,
+633,Baity Hill 1401 Mason Farm Road,"60,059",A,2004,2005,
+634,Baity Hill 1501 Mason Farm Road,"60,059",A,2004,2005,
+635,Baity Hill 1600 Student Fam. Housing,"80,031",A,2004,2005,
+636,Baity Hill 1700 Student Fam. Housing,"78,045",A,2004,2005,
+637,Baity Hill 1800 Student Fam. Housing,"81,191",A,2004,2005,
+638,Baity Hill 1900 Student Fam. Housing,"80,031",A,2004,2005,
+639,Baity Hill 2000 Student Fam. Housing,"81,191",A,2004,2005,
+640A,Grounds Tractor Barn,"1,500",C,2005 Q2,2005,
+640B,Grounds Shop 427 Maintenance Barn,"1,100",C,2005 Q2,2005,
+640C,Grounds Shop 429 Barn,770,C,2005 Q2,2005,
+640D,Grounds Shop 424 Arborist Barn,352,C,2005 Q2,2005,
+640E,Grounds Graduation Equipment Barn,360,C,2005 Q2,2005,
+640F,Grounds IPM Hut,884,C,2005 Q2,2005,
+640G,Grounds Salt And Sand Shed,660,C,2005 Q2,2005,
+640H,Grounds Shop 426 Landscape Barn,"1,100",C,2005 Q2,2005,
+640J,Grounds Shop 422 Barn,352,C,2005 Q2,2005,
+641,Taylor Residence Hall,"137,456",A,2004,2006,
+642,Ram Village At 520 Williamson Drive,"142,903",A,2005,2006,
+643,Ram Village At 560 Paul Hardin Drive,"103,669",A,2004,2006,
+644,Ram Village At 550 Paul Hardin Drive,"54,884",A,2004,2006,
+645,Ram Village At 540 Paul Hardin Drive,"84,900",A,2004,2006,
+648,Cobb Parking Deck,"158,949",A,2005,2006,
+649,"Environment, Health And Safety Bldg","22,591",A,2005,2006,
+650,Liquid Waste Storage Facility,"1,413",B,2004,2006,
+651,Facilities Construction Shops,"19,501",A,2004,2005,
+658,Houpt Physician Office Building,"103,223",A,2006 Q1,2008,
+660,Williamson  Athletic  Center,"47,698",A,2006 Q1,2007,
+669,"Cameron Ave, 215 West House","2,240",B,1852,2007,
+669A,"Cameron Ave, 215 West Carriage House",820,B,1852,2007,
+670,Allen Education Center,"32,301",A,2007 Q3,2009,
+672,Bingham Facility Building Number 2,"5,363",A,2007 Q3,2007,
+674,Murray Hall,"126,612",A,2007 Q4,2010,
+675,Bingham Facility Building Number 3,"10,847",A,,2011,
+676,Genome Sciences Building,"220,937",A,2008 Q3,2012,
+677,Bell Tower Parking Deck,"262,714",A,2008 Q3,2010,
+679,Homestead Operations Center,"23,851",A,,2008,
+681,Soccer Team Building,"26,405",A,2017,2019,
+681A,Soccer Concession and Toilet Building,"2,364",B,2017,2019,
+681B,Soccer Press Box Building,"1,176",B,2017,2019,
+681C,Soccer Ticket Office,260,B,2017,2019,
+701A,Odum Village 600 Hibbard Drive,"6,235",A,1960,1963,
+701E,Odum Village 604 Hibbard Drive,"6,235",A,1960,1963,
+701J,Odum Village 609 Hibbard Drive,"6,235",A,1960,1963,
+701L,Odum Village 613 Hibbard Drive,"6,235",A,1960,1963,
+701N,Odum Village 617 Hibbard Drive,"3,360",B,1960,1963,
+701S,Odum Village 619 Hibbard Drive,"4,797",B,1960,1963,
+702A,Odum Village 105 Bernard St,"4,797",B,1960,1963,
+702B,Odum Village 106 Bernard St,"3,360",B,1960,1963,
+702C,Odum Village 104 Bernard St,"3,360",B,1960,1963,
+702D,Odum Village 100 Bernard St,"6,235",A,1960,1963,
+702E,Odum Village 201 Branson St,"3,360",B,1960,1963,
+702F,Odum Village 200 Branson St,"3,360",B,1960,1963,
+702G,Odum Village 203 Branson St,"6,235",A,1960,1963,
+702H,Odum Village 202 Branson St,"6,235",A,1960,1963,
+702J,Odum Village 207 Branson St,"6,235",A,1960,1963,
+702K,Odum Village 206 Branson St,"6,235",A,1960,1963,
+702L,Odum Village 210 Branson St,"6,235",A,1960,1963,
+702M,Odum Village 214 Branson St,"6,235",A,1960,1963,
+745,Venable Hall,"42,887",A,2008 Q1,2010,
+746,Koman Practice Complex,"106,888",A,2017,2019,
+746A,Koman Football Support Facility,"10,323",A,2017,2019,
+,Knapp Sanders,,,,,
